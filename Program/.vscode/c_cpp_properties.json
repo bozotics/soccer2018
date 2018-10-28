@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceRoot}",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
+                "/Applications/Arduino.app/Contents/Java/hardware/teensy/avr/cores",
+                "/Applications/Arduino.app/Contents/Java/hardware/teensy/avr/cores/teensy3",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega",
+                "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include",
+                "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/lib/gcc/avr/4.9.2/include",
+                "/Applications/Arduino.app/Contents/Java/libraries"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "${workspaceRoot}",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
+                    "/Applications/Arduino.app/Contents/Java/hardware/teensy/avr/cores",
+                    "/Applications/Arduino.app/Contents/Java/hardware/teensy/avr/cores/teensy3",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega",
+                    "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include",
+                    "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/lib/gcc/avr/4.9.2/include",
+                    "/Applications/Arduino.app/Contents/Java/libraries"
+                ]
+            },
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ]
+        }
+    ],
+    "version": 3
+}

@@ -1,0 +1,79 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceRoot}",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
+                "/Applications/Arduino.app/Contents/Java/hardware/teensy/avr/cores",
+                "/Applications/Arduino.app/Contents/Java/hardware/teensy/avr/cores/teensy3",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega",
+                "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include",
+                "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/lib/gcc/avr/4.9.2/include",
+                "/Applications/Arduino.app/Contents/Java/libraries",
+                "/Users/JH/Documents/Arduino/libraries",
+                "/Users/JH/Library/Arduino15/packages/arduino/hardware/avr/1.6.21/cores/arduino"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "${workspaceRoot}",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
+                    "/Applications/Arduino.app/Contents/Java/hardware/teensy/avr/cores",
+                    "/Applications/Arduino.app/Contents/Java/hardware/teensy/avr/cores/teensy3",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/libraries",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega",
+                    "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include",
+                    "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/lib/gcc/avr/4.9.2/include",
+                    "/Applications/Arduino.app/Contents/Java/libraries",
+                    "/Users/JH/Documents/Arduino/libraries",
+                    "/Users/JH/Library/Arduino15/packages/arduino/hardware/avr/1.6.21/cores/arduino"
+                ]
+            },
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "includePath": [
+                "${workspaceFolder}",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                "C:/Program Files (x86)/Arduino/hardware/teensy/avr/cores",
+                "C:/Program Files (x86)/Arduino/hardware/teensy/avr/cores/teensy3",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include",
+                "C:/Program Files (x86)/Arduino/libraries",
+                "C:/Users/Justin Tan/Documents/Arduino/libraries"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "browse": { "path": [
+                "${workspaceFolder}",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                "C:/Program Files (x86)/Arduino/hardware/teensy/avr/cores",
+                "C:/Program Files (x86)/Arduino/hardware/teensy/avr/cores/teensy3",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include",
+                "C:/Program Files (x86)/Arduino/libraries",
+                "C:/Users/Justin Tan/Documents/Arduino/libraries"
+            ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 3
+}
